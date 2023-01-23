@@ -48,3 +48,9 @@ git config --global gpg.program gpg
 echo "export GPG_TTY=$(tty)" >> ~/.bashrc
 source ~/.bashrc
 ```
+
+# Referências
+
+- [Assinando commits no Git com GPG](https://coderi.com.br/2018/01/13/assinando-commits-no-git-com-gpg/)
+
+- [gpg failed to sign the data fatal: failed to write commit object [Git 2.10.0]](https://stackoverflow.com/questions/39494631/gpg-failed-to-sign-the-data-fatal-failed-to-write-commit-object-git-2-10-0)
