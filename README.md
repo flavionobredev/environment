@@ -6,8 +6,8 @@ Este repositório foi criado pensando em otimizar o trabalho de configuração d
   - [ ] Docker
 - [ ] GIT
   - [ ] Chave SSH
-  - [ ] Chave GPG
-  - [ ] Setup para múltiplos usuários
+  - [x] Chave GPG
+  - [x] Setup para múltiplos usuários
 
 ## Windows 10 e 11
 
@@ -23,3 +23,4 @@ Com algumas poucas configurações, você pode ter um ambiente de desenvolviment
 
 
 * [Chave GPG](git/gpg-key.md)
+* [Multiplas contas](git/multiple-accounts.md)
