@@ -8,6 +8,7 @@ Este repositório foi criado pensando em otimizar o trabalho de configuração d
   - [x] Chave SSH
   - [x] Chave GPG
   - [x] Setup para múltiplos usuários
+  - [x] Alias
 
 ## Windows 10 e 11
 
@@ -24,3 +25,4 @@ Com algumas poucas configurações, você pode ter um ambiente de desenvolviment
 * [Chave SSH](git/ssh-key.md)
 * [Chave GPG](git/gpg-key.md)
 * [Multiplas contas](git/multiple-accounts.md)
+* [Alias](git/alias.md)
