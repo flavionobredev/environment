@@ -4,8 +4,8 @@ Este repositório foi criado pensando em otimizar o trabalho de configuração d
 - [ ] Windows 10 e 11
   - [ ] WSL2
   - [ ] Docker
-- [ ] GIT
-  - [ ] Chave SSH
+- [x] GIT
+  - [x] Chave SSH
   - [x] Chave GPG
   - [x] Setup para múltiplos usuários
 
@@ -21,6 +21,6 @@ Com algumas poucas configurações, você pode ter um ambiente de desenvolviment
 
 > obs: os comandos utilizados são executados em um terminal linux. Caso você esteja utilizando o Windows, você pode utilizar o WSL2.
 
-
+* [Chave SSH](git/ssh-key.md)
 * [Chave GPG](git/gpg-key.md)
 * [Multiplas contas](git/multiple-accounts.md)
