@@ -1,9 +1,9 @@
 # Configurações para Ambiente
 
 Este repositório foi criado pensando em otimizar o trabalho de configuração de ambiente. Nele você encontrará configurações para:
-- [ ] Windows 10 e 11
-  - [ ] WSL2
-  - [ ] Docker
+- [x] Windows 10 e 11
+  - [x] WSL2
+  - [x] Docker
 - [x] GIT
   - [x] Chave SSH
   - [x] Chave GPG
